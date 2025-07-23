@@ -104,4 +104,4 @@ The interactive dashboard includes:
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email for collaboration or questions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jhanvikasundra/) or email for collaboration or questions.
