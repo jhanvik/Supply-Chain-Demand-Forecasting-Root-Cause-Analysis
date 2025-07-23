@@ -30,7 +30,7 @@ This project applies supervised machine learning to forecast product demand in a
   - RMSE: `2.58`
   - R² Score: `0.99995`
 
-![Actual vs Predicted](actual_vs_predicted.png)
+![Actual vs Predicted](images/actual_vs_predicted.png)
 
 ---
 
@@ -41,7 +41,7 @@ Analyzed late deliveries by:
 - **Mode of Shipment**: Road showed most delays
 - **Product Importance**: High-priority items were delayed less often
 
-![Discount vs Late Delivery](discount_vs_late.png)
+![Discount vs Late Delivery](images/discount_vs_late.png)
 
 ---
 
@@ -49,7 +49,7 @@ Analyzed late deliveries by:
 
 The model highlighted key predictors of demand:
 
-![Feature Importance](feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
@@ -57,7 +57,7 @@ The model highlighted key predictors of demand:
 
 Forecasted demand closely matched actual weekly demand for the final 10 test weeks.
 
-![Forecast vs Actual Demand (Zoomed)](forecast_vs_actual_zoomed.png)
+![Forecast vs Actual Demand (Zoomed)](images/forecast_vs_actual_zoomed.png)
 
 ---
 
