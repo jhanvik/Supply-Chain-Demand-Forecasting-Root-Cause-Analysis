@@ -30,7 +30,7 @@ This project applies supervised machine learning to forecast product demand in a
   - RMSE: `2.58`
   - R² Score: `0.99995`
 
-![Actual vs Predicted Demand](images/actual_vs_predicted.png)
+![Actual vs Predicted Demand](actual_vs_predicted.png)
 
 ---
 
@@ -41,7 +41,7 @@ Analyzed late deliveries by:
 - **Mode of Shipment**: Road showed most delays
 - **Product Importance**: High-priority items were delayed less often
 
-![Discount vs Late Delivery]()
+![Discount vs Late Delivery](discount_vs_late.png)
 
 ---
 
@@ -49,7 +49,7 @@ Analyzed late deliveries by:
 
 The model highlighted key predictors of demand:
 
-![Feature Importance]()
+![Feature Importance](feature_importance.png)
 
 ---
 
@@ -57,18 +57,17 @@ The model highlighted key predictors of demand:
 
 Forecasted demand closely matched actual weekly demand for the final 10 test weeks.
 
-![Forecast vs Actual Demand (Zoomed)] ()
+![Forecast vs Actual Demand (Zoomed)](forecast_vs_actual_zoomed.png)
 
 ---
 
-## 📊 Dashboard (Power BI )
+## 📊 Dashboard (Power BI)
 
 The interactive dashboard includes:
 - KPIs: MAE, RMSE, R²
 - Forecast trends
 - Delay analysis by warehouse, shipment mode, and product importance
 - Feature-driven insights
-
 
 ---
 
@@ -90,12 +89,19 @@ The interactive dashboard includes:
 | `forecast_model.ipynb` | Complete ML pipeline |
 | `Forecasted_SupplyChain_Data.csv` | Final dataset with predictions |
 | `README.md` | Project documentation |
-| `images/` | Folder containing all plot images |
+| `*.png` files | Visualizations (root directory) |
 
 ---
 
 ## 📌 Business Impact
 
-- Enables accurate and proactive inventory planning
-- Reduces stockouts and overstock risk
-- Meets Six Sigma fore
+- Enabled **accurate, proactive inventory planning** using near-perfect demand forecasting (R² = 0.99995)
+- Supported **root cause analysis** for delayed shipments by analyzing discount, mode, and warehouse patterns
+- Provided a ready-to-use dashboard for **data-driven decision making**
+- Model performance aligns with **Six Sigma standards**, reducing demand forecast error below critical defect thresholds
+
+---
+
+## 📬 Contact
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or email for collaboration or questions.
