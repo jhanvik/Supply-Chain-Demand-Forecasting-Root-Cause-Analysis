@@ -89,7 +89,7 @@ The interactive dashboard includes:
 | `forecast_model.ipynb` | Complete ML pipeline |
 | `Forecasted_SupplyChain_Data.csv` | Final dataset with predictions |
 | `README.md` | Project documentation |
-| `*.png` files | Visualizations (root directory) |
+| `*.png` files | Visualizations [images] |
 
 ---
 
