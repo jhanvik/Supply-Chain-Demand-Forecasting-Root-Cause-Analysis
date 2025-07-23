@@ -30,7 +30,7 @@ This project applies supervised machine learning to forecast product demand in a
   - RMSE: `2.58`
   - R² Score: `0.99995`
 
-![Actual vs Predicted Demand](actual_vs_predicted.png)
+![Actual vs Predicted](actual_vs_predicted.png)
 
 ---
 
